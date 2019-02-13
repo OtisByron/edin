@@ -1,0 +1,16 @@
+vim
+autoconf
+automake
+gcc
+libtool
+curl
+git
+python
+libffi-dev
+ax25-apps
+ax25-tools
+jq
+zip
+dnsmasq
+hostapd
+

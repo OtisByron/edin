@@ -1,0 +1,4 @@
+enable ssh
+start ssh
+stop dnsmasq
+stop hostapd

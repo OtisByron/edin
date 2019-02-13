@@ -1,0 +1,1 @@
+https://bootstrap.pypa.io/get-pip.py --output ~/edin/assets/get-pip.py; sudo python ~/edin/assets/get-pip.py; sudo pip install pyserial cryptography
